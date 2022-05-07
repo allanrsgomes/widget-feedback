@@ -29,6 +29,7 @@ Este projeto foi desenvolvido durante um evento promovido pela [Rocketseat](http
 - [TailwindCSS](https://tailwindcss.com/)
 - [Prisma](https://www.prisma.io/)
 - [Express](https://expressjs.com/)
+- [Mailtrap](https://mailtrap.io/)
 
 ---
 
